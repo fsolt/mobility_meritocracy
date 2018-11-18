@@ -13,7 +13,7 @@ author:
   affiliation: University of Pennsylvania
 - name: Frederick Solt
   affiliation: University of Iowa
-abstract: "Do Americans belief in meritocracy--that is, whether one can get ahead by hard work--reflect the actual extent of economic mobility in their communities? Let's find out."
+abstract: "Do Americans' beliefs in meritocracy--that is, whether one can get ahead by hard work--reflect the actual extent of economic mobility in their communities? Let's find out."
 # keywords: "economic mobility, meritocracy, American dream"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 fontsize: 11pt
